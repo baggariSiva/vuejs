@@ -4,7 +4,7 @@ config:
     framework: 'Vue'
     buildCommand: 'npm run build'
     buildDir: 'dist'
-    runCommand: 'PORT=3000 npm run dev'
+    runCommand: 'npm run dev'
     installCommand: 'npm install'
 ports:
   - protocol: "HTTPS"
