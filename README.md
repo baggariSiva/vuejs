@@ -1,6 +1,6 @@
-# VueJs on Elestio
+# Vue.js using vue create on Elestio
 
-This is a minimal example of a VueJs static site created using vue create
+This is a minimal example of a Vue.js app created using vue create
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
